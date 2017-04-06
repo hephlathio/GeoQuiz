@@ -1,4 +1,4 @@
-# whereToGo
+# GeoQuiz!
 
 ## Run
 npm install
